@@ -1,0 +1,16 @@
+Original Sequence: [0, 3, 5, 8, 6, 4, 7, 9, 2, 1, 10, 11, 12]
+Sorting Now
+Number Of Break Points: 9
+Updated Seq: [0, 1, 2, 9, 7, 4, 6, 8, 5, 3, 10, 11, 12]
+Number Of Break Points: 8
+Updated Seq: [0, 1, 2, 3, 5, 8, 6, 4, 7, 9, 10, 11, 12]
+Number Of Break Points: 6
+Updated Seq: [0, 1, 2, 3, 4, 6, 8, 5, 7, 9, 10, 11, 12]
+Number Of Break Points: 5
+Updated Seq: [0, 1, 2, 3, 4, 5, 8, 6, 7, 9, 10, 11, 12]
+Number Of Break Points: 3
+Updated Seq: [0, 1, 2, 3, 4, 5, 8, 7, 6, 9, 10, 11, 12]
+Number Of Break Points: 2
+Updated Seq: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+Sorting Ended - Reversal Distance: 6
+Final Sequence: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
